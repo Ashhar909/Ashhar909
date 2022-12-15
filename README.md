@@ -6,6 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashhar909&label=Profile%20views&color=0e75b6&style=flat" alt="ashhar909" /> </p>
 <br>
 
+- 👯 I’m looking to collaborate on **full stack website development**
+
+- 🗻 pushing to the limits **day in day out**
+
 - 📫 How to reach me **ashhar374@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
